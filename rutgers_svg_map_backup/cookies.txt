@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+staging.explorerutgers.com.php72-4.lan3-1.websitetestlink.com	TRUE	/	FALSE	1999999999	X-Mapping-llahcpom	BBAD7BAB91B4CB31C57D062621339903
+staging.explorerutgers.com.php72-4.lan3-1.websitetestlink.com	TRUE	/	FALSE	1999999999	CAKEPHP	31620271e759511a2d90aeede2c46d7c
+staging.explorerutgers.com.php72-4.lan3-1.websitetestlink.com	TRUE	/	FALSE	1999999999	utm_source	direct
+rutgersondemand.com	TRUE	/	FALSE	1999999999	X-Mapping-knikccmo	D37180EE0AA9FF5DE99D53B853471586
+
